@@ -1,0 +1,80 @@
+.Footer-first {
+    .foobox {
+        background-color: #f99b80;
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 100px;
+        margin-left: 200px;
+        margin-right: 200px;
+        border-radius: 20px;
+
+        .foohead {
+            background-color: #f99b80;
+            color: white;       
+            margin: 50px;
+        }
+    }
+
+    .Footer {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 70px;
+
+        .foo1 {
+
+            .foopara {
+                color: rgb(180, 173, 173);
+                margin-top: 20px;
+                font-size: 12.5px;
+            }
+        }
+
+        .foo2 {
+
+            .foopara1 {
+                color: rgb(180, 173, 173);
+                margin-top: 20px;
+
+                .about {
+                    font-size: 12.5px;
+                }
+            }
+        }
+
+        .foo3 {
+            .foopara2 {
+                color: rgb(180, 173, 173);
+                margin-top: 20px;
+
+                .share {
+                    font-size: 12.5px;
+                }
+            }
+        }
+
+        
+        .foo4 {
+            .foopara3 {
+                color: rgb(180, 173, 173);
+                margin-top: 20px;
+
+                .Terms {
+                    font-size: 12.5px;
+                }
+            }
+
+            .social {
+                display: flex;
+                justify-content: space-around;
+                .facebook {
+                    height: 18px;
+                    background-color: #f99b80;
+                    margin: 10px;
+                    padding: 4.5px;
+                    border-radius: 10px;
+                }
+            }
+        }
+    }
+
+}
