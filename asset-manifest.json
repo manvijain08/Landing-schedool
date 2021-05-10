@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/landing-schedool/static/css/main.00489af5.chunk.css",
+    "main.js": "/landing-schedool/static/js/main.c2b4b332.chunk.js",
+    "main.js.map": "/landing-schedool/static/js/main.c2b4b332.chunk.js.map",
+    "runtime-main.js": "/landing-schedool/static/js/runtime-main.a0c5e736.js",
+    "runtime-main.js.map": "/landing-schedool/static/js/runtime-main.a0c5e736.js.map",
+    "static/js/2.87b22faf.chunk.js": "/landing-schedool/static/js/2.87b22faf.chunk.js",
+    "static/js/2.87b22faf.chunk.js.map": "/landing-schedool/static/js/2.87b22faf.chunk.js.map",
+    "index.html": "/landing-schedool/index.html",
+    "static/css/main.00489af5.chunk.css.map": "/landing-schedool/static/css/main.00489af5.chunk.css.map",
+    "static/js/2.87b22faf.chunk.js.LICENSE.txt": "/landing-schedool/static/js/2.87b22faf.chunk.js.LICENSE.txt",
+    "static/media/calendar.0073112f.svg": "/landing-schedool/static/media/calendar.0073112f.svg",
+    "static/media/cool.c38d5f79.png": "/landing-schedool/static/media/cool.c38d5f79.png",
+    "static/media/fhero.edf45001.png": "/landing-schedool/static/media/fhero.edf45001.png",
+    "static/media/instagram.e80dd0bf.png": "/landing-schedool/static/media/instagram.e80dd0bf.png",
+    "static/media/logotwo.83ce20ac.png": "/landing-schedool/static/media/logotwo.83ce20ac.png",
+    "static/media/love.6ecb404f.png": "/landing-schedool/static/media/love.6ecb404f.png",
+    "static/media/party.4e5e8735.png": "/landing-schedool/static/media/party.4e5e8735.png",
+    "static/media/scart.e74f61ed.png": "/landing-schedool/static/media/scart.e74f61ed.png",
+    "static/media/star.618d11e1.png": "/landing-schedool/static/media/star.618d11e1.png",
+    "static/media/tone.665f168d.png": "/landing-schedool/static/media/tone.665f168d.png",
+    "static/media/tthird.404bca43.png": "/landing-schedool/static/media/tthird.404bca43.png",
+    "static/media/ttwo.9d6fe849.png": "/landing-schedool/static/media/ttwo.9d6fe849.png",
+    "static/media/twitter.480d6b94.png": "/landing-schedool/static/media/twitter.480d6b94.png",
+    "static/media/user.ae3a914b.png": "/landing-schedool/static/media/user.ae3a914b.png",
+    "static/media/verified.0f8c5a77.png": "/landing-schedool/static/media/verified.0f8c5a77.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c5e736.js",
+    "static/js/2.87b22faf.chunk.js",
+    "static/css/main.00489af5.chunk.css",
+    "static/js/main.c2b4b332.chunk.js"
+  ]
+}
