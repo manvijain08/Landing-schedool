@@ -6,7 +6,7 @@ import button from "../button";
 function Hero ()
 {
   return (
-  <div>
+  <div className="hero">
     <div className="navbar">
       <h1>LOGO</h1>
       <div className="navelements">

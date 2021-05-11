@@ -4,7 +4,7 @@ import calendar from "../Images/calendar.svg";
 function Card ()
 {
   return (
-    <div>
+    <div className="feature">
       <div className="feature-first">
         <div className="pink">FEATURES</div>
           <div className="feature-head">
