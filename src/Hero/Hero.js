@@ -29,9 +29,9 @@ function Hero ()
         <button className="btnpri">Get Started</button>
        <p className="phero1">Powered by: </p>
        <div className="threev">
-      <img className="l1" src={logotwo} alt="Photo" />
-      <img className="l2" src={logotwo} alt="Photo" />
-      <img className="l3" src={logotwo} alt="Photo" />
+      <img className="l1" src={logotwo} alt="xyz" />
+      <img className="l2" src={logotwo} alt="xyz" />
+      <img className="l3" src={logotwo} alt="xyz" />
       </div>
       </div>
         <img className="first" src={fhero} alt="first" />;
